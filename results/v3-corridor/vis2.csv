@@ -1,0 +1,11 @@
+id,label,cams,unsupported_pct,unsupported_in_sight_pct,unsupported_unseen_pct
+1,chair,28,58.2,28.6,29.6
+2,chair,20,41.7,25.0,16.7
+3,chair,16,5.4,5.4,0.0
+7,chair,45,16.2,13.9,2.3
+9,chair,46,23.8,9.3,14.5
+12,chair,14,54.9,26.3,28.6
+13,chair,9,58.7,22.0,36.7
+18,wet floor sign,50,32.6,31.7,0.8
+20,chair,9,20.2,3.7,16.4
+19,chair,12,45.9,23.2,22.8

@@ -1,0 +1,357 @@
+[
+ {
+  "id": "18",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "20",
+  "label": "chair",
+  "reason": "outside area"
+ },
+ {
+  "id": "22",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "23",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "28",
+  "label": "kiosk machine vending machine",
+  "reason": "wall/door piece (thickness 0.035 m, coplanar ratio 0.39)"
+ },
+ {
+  "id": "30",
+  "label": "chair",
+  "reason": "wall/door piece (thickness 0.043 m, coplanar ratio 1.11)"
+ },
+ {
+  "id": "31",
+  "label": "table",
+  "reason": "outside area"
+ },
+ {
+  "id": "32",
+  "label": "potted plant",
+  "reason": "wall/door piece (thickness 0.079 m, coplanar ratio 0.61)"
+ },
+ {
+  "id": "33",
+  "label": "chair",
+  "reason": "outside area"
+ },
+ {
+  "id": "35",
+  "label": "chair",
+  "reason": "outside area"
+ },
+ {
+  "id": "38",
+  "label": "hospital bed",
+  "reason": "outside area"
+ },
+ {
+  "id": "46",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "48",
+  "label": "table",
+  "reason": "outside area"
+ },
+ {
+  "id": "53",
+  "label": "chair",
+  "reason": "wall/door piece (thickness 0.064 m, coplanar ratio 0.60)"
+ },
+ {
+  "id": "56.1",
+  "label": "chair",
+  "reason": "wall/door piece (thickness 0.078 m, coplanar ratio 0.76)"
+ },
+ {
+  "id": "61",
+  "label": "chair",
+  "reason": "wall/door piece (thickness 0.076 m, coplanar ratio 0.63)"
+ },
+ {
+  "id": "62",
+  "label": "wet floor sign",
+  "reason": "wall/door piece (thickness 0.010 m, coplanar ratio 0.92)"
+ },
+ {
+  "id": "65",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "69",
+  "label": "wet floor sign",
+  "reason": "wall/door piece (thickness 0.002 m, coplanar ratio 0.47)"
+ },
+ {
+  "id": "70",
+  "label": "bench",
+  "reason": "wall/door piece (thickness 0.012 m, coplanar ratio 0.39)"
+ },
+ {
+  "id": "71.0",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "71.1",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "72",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "73",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "74",
+  "label": "chair",
+  "reason": "outside area"
+ },
+ {
+  "id": "76",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "78.0",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "78.1",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "78.2",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "79",
+  "label": "vending machine",
+  "reason": "outside area"
+ },
+ {
+  "id": "0.0",
+  "label": "chair",
+  "reason": "size gate (max extent 9.90 m)"
+ },
+ {
+  "id": "5.0",
+  "label": "wet floor sign",
+  "reason": "size gate (max extent 4.44 m)"
+ },
+ {
+  "id": "9.1",
+  "label": "queue stanchion",
+  "reason": "size gate (max extent 3.74 m)"
+ },
+ {
+  "id": "11.0",
+  "label": "potted plant",
+  "reason": "size gate (max extent 4.83 m)"
+ },
+ {
+  "id": "13.0",
+  "label": "wet floor sign",
+  "reason": "size gate (max extent 3.60 m)"
+ },
+ {
+  "id": "15.0",
+  "label": "wet floor sign",
+  "reason": "size gate (max extent 3.20 m)"
+ },
+ {
+  "id": "21.0",
+  "label": "queue stanchion",
+  "reason": "size gate (max extent 3.40 m)"
+ },
+ {
+  "id": "26",
+  "label": "table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "29",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "24",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "27",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "25",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "47",
+  "label": "table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "39",
+  "label": "table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "44",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "40",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "43",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "42",
+  "label": "potted plant",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "49",
+  "label": "wet floor sign",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "50",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "37",
+  "label": "standing sign board",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "34",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "45",
+  "label": "wet floor sign",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "51",
+  "label": "table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "36",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "41",
+  "label": "wet floor sign",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "77",
+  "label": "table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "55",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "57",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "59",
+  "label": "bench table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "54",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "60",
+  "label": "queue stanchion",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "64",
+  "label": "bench table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "58",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "67",
+  "label": "potted plant",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "68",
+  "label": "wet floor sign",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "75",
+  "label": "table",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "63",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "56.0",
+  "label": "chair",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "66",
+  "label": "potted plant",
+  "reason": "object cap (20)"
+ },
+ {
+  "id": "52",
+  "label": "chair",
+  "reason": "object cap (20)"
+ }
+]

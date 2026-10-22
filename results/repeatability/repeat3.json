@@ -1,0 +1,247 @@
+[
+ {
+  "a": "20260715143411",
+  "b": "20260715152833",
+  "init": "identity",
+  "icp_fitness_5cm": 0.02,
+  "icp_rmse_cm": 3.7,
+  "overlap_frac_of_b": 0.212,
+  "overlap_area_m2": 3879,
+  "eval_beyond_30cm_pct": 63.5,
+  "n": 146119,
+  "median_cm": 10.56,
+  "p90_cm": 22.93,
+  "p95_cm": 25.9,
+  "within_2cm_pct": 9.0,
+  "within_5cm_pct": 22.6,
+  "floor_n": 199823,
+  "floor_median_cm": 0.09,
+  "floor_p90_cm": 1.23,
+  "floor_p95_cm": 2.76,
+  "floor_within_2cm_pct": 93.1,
+  "floor_within_5cm_pct": 97.9,
+  "T": [
+   [
+    0.9985,
+    0.01637,
+    0.05225,
+    -1.02302
+   ],
+   [
+    -0.01627,
+    0.99986,
+    -0.0023,
+    -0.90973
+   ],
+   [
+    -0.05228,
+    0.00144,
+    0.99863,
+    -2.53228
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "seconds": 753
+ },
+ {
+  "a": "20260715152833",
+  "b": "20260715163849",
+  "init": "identity",
+  "icp_fitness_5cm": 0.055,
+  "icp_rmse_cm": 3.41,
+  "overlap_frac_of_b": 0.26,
+  "overlap_area_m2": 2972,
+  "eval_beyond_30cm_pct": 77.3,
+  "n": 90851,
+  "median_cm": 9.21,
+  "p90_cm": 22.03,
+  "p95_cm": 25.06,
+  "within_2cm_pct": 12.7,
+  "within_5cm_pct": 30.9,
+  "floor_n": 199929,
+  "floor_median_cm": 0.07,
+  "floor_p90_cm": 0.27,
+  "floor_p95_cm": 0.7,
+  "floor_within_2cm_pct": 97.8,
+  "floor_within_5cm_pct": 99.3,
+  "T": [
+   [
+    0.9995,
+    -0.0316,
+    0.00116,
+    0.90497
+   ],
+   [
+    0.0316,
+    0.9995,
+    -0.00055,
+    -0.03037
+   ],
+   [
+    -0.00114,
+    0.00059,
+    1.0,
+    -0.15611
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "seconds": 211
+ },
+ {
+  "a": "20260716105000",
+  "b": "20260716114515",
+  "init": "identity",
+  "icp_fitness_5cm": 0.011,
+  "icp_rmse_cm": 3.66,
+  "overlap_frac_of_b": 0.132,
+  "overlap_area_m2": 2969,
+  "eval_beyond_30cm_pct": 77.5,
+  "n": 90010,
+  "median_cm": 12.05,
+  "p90_cm": 23.89,
+  "p95_cm": 26.48,
+  "within_2cm_pct": 9.0,
+  "within_5cm_pct": 23.7,
+  "floor_n": 199941,
+  "floor_median_cm": 0.08,
+  "floor_p90_cm": 0.24,
+  "floor_p95_cm": 0.62,
+  "floor_within_2cm_pct": 97.9,
+  "floor_within_5cm_pct": 99.3,
+  "T": [
+   [
+    0.99953,
+    0.03015,
+    -0.00499,
+    -0.42999
+   ],
+   [
+    -0.03006,
+    0.99941,
+    0.01668,
+    0.16344
+   ],
+   [
+    0.00549,
+    -0.01652,
+    0.99985,
+    0.21354
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "seconds": 137
+ },
+ {
+  "a": "20260716114515",
+  "b": "20260716125636",
+  "init": "identity",
+  "icp_fitness_5cm": 0.066,
+  "icp_rmse_cm": 3.38,
+  "overlap_frac_of_b": 0.454,
+  "overlap_area_m2": 4968,
+  "eval_beyond_30cm_pct": 77.9,
+  "n": 88316,
+  "median_cm": 8.74,
+  "p90_cm": 21.97,
+  "p95_cm": 24.68,
+  "within_2cm_pct": 11.9,
+  "within_5cm_pct": 29.8,
+  "floor_n": 199443,
+  "floor_median_cm": 0.12,
+  "floor_p90_cm": 1.61,
+  "floor_p95_cm": 3.45,
+  "floor_within_2cm_pct": 91.5,
+  "floor_within_5cm_pct": 97.0,
+  "T": [
+   [
+    0.99995,
+    -0.00906,
+    -0.00453,
+    0.51276
+   ],
+   [
+    0.00912,
+    0.99987,
+    0.01305,
+    -0.14791
+   ],
+   [
+    0.00441,
+    -0.01309,
+    0.9999,
+    0.35082
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "seconds": 166
+ },
+ {
+  "a": "20260717085402",
+  "b": "20260718103948",
+  "init": "identity",
+  "icp_fitness_5cm": 0.043,
+  "icp_rmse_cm": 3.18,
+  "overlap_frac_of_b": 0.244,
+  "overlap_area_m2": 7099,
+  "eval_beyond_30cm_pct": 76.0,
+  "n": 96029,
+  "median_cm": 11.33,
+  "p90_cm": 25.44,
+  "p95_cm": 27.59,
+  "within_2cm_pct": 9.2,
+  "within_5cm_pct": 23.9,
+  "floor_n": 199952,
+  "floor_median_cm": 0.07,
+  "floor_p90_cm": 0.29,
+  "floor_p95_cm": 0.77,
+  "floor_within_2cm_pct": 97.7,
+  "floor_within_5cm_pct": 99.3,
+  "T": [
+   [
+    0.99995,
+    0.00983,
+    0.00065,
+    -1.30135
+   ],
+   [
+    -0.00983,
+    0.99995,
+    0.00034,
+    0.16029
+   ],
+   [
+    -0.00064,
+    -0.00034,
+    1.0,
+    0.05615
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "seconds": 216
+ }
+]

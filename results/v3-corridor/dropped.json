@@ -1,0 +1,52 @@
+[
+ {
+  "id": "4",
+  "label": "standing sign board",
+  "reason": "wall/door piece (thickness 0.025 m, coplanar ratio 0.71)"
+ },
+ {
+  "id": "5",
+  "label": "standing sign board",
+  "reason": "wall/door piece (thickness 0.028 m, coplanar ratio 0.73)"
+ },
+ {
+  "id": "6",
+  "label": "wet floor sign",
+  "reason": "wall/door piece (thickness 0.023 m, coplanar ratio 0.80)"
+ },
+ {
+  "id": "8",
+  "label": "standing sign board",
+  "reason": "wall/door piece (thickness 0.005 m, coplanar ratio 0.62)"
+ },
+ {
+  "id": "10",
+  "label": "queue stanchion",
+  "reason": "wall/door piece (thickness 0.006 m, coplanar ratio 0.80)"
+ },
+ {
+  "id": "11",
+  "label": "table",
+  "reason": "wall/door piece (thickness 0.003 m, coplanar ratio 0.75)"
+ },
+ {
+  "id": "14",
+  "label": "queue stanchion",
+  "reason": "wall/door piece (thickness 0.035 m, coplanar ratio 0.70)"
+ },
+ {
+  "id": "15",
+  "label": "chair",
+  "reason": "wall/door piece (thickness 0.060 m, coplanar ratio 0.47)"
+ },
+ {
+  "id": "16",
+  "label": "bench",
+  "reason": "wall/door piece (thickness 0.047 m, coplanar ratio 0.90)"
+ },
+ {
+  "id": "17",
+  "label": "wet floor sign",
+  "reason": "wall/door piece (thickness 0.005 m, coplanar ratio 0.57)"
+ }
+]

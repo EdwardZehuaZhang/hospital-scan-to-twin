@@ -1,0 +1,49 @@
+area,id,auto_label,hand_label,label_verdict,crop_shows_object,note
+lobby,0,potted plant,planter with plants,correct,yes,2.2 x 2.8 m cluster
+lobby,1,potted plant,potted plant,correct,yes,
+lobby,4,wet floor sign,self-service kiosk,wrong,yes,"Self-Service Kiosk" legible in crop
+lobby,6,standing sign board,free-standing sign post,correct,yes,crop small
+lobby,7,standing sign board,display or brochure board,correct,yes,
+lobby,8,standing sign board,ticket kiosk,wrong,yes,
+lobby,9,potted plant,unclear (glass display or partition),unclear,no,crop shows glass
+lobby,10,table,unclear (cabinet or counter),unclear,yes,
+lobby,12,display stand,kiosk,wrong,yes,
+lobby,15,wet floor sign,brochure stand,wrong,yes,1.92 m tall
+lobby,17,potted plant,potted plant,correct,no,crop is a sliver of leaves
+lobby,18.0,queue stanchion,queue stanchion,correct,no,crop shows a passer-by's clothing (no face)
+lobby,18.1,queue stanchion,queue stanchion,correct,yes,
+lobby,19,standing sign board,sign post,correct,yes,
+lobby,20,wet floor sign,standing sign panel,wrong,yes,1.79 m tall
+lobby,22,wet floor sign,standing direction sign,wrong,yes,"Pharmacy (MBP)" sign
+lobby,24,potted plant,potted plant,correct,yes,
+lobby,25,wet floor sign,unclear (2.7 m long low structure),wrong,no,crop is a sliver of signage
+corridor,1,chair,row of four linked waiting chairs,correct,yes,3.8 m row
+corridor,2,chair,two linked waiting chairs,correct,yes,
+corridor,3,chair,upholstered chair,correct,yes,
+corridor,7,chair,chair,correct,no,crop fragmentary
+corridor,9,chair,chair seat,correct,no,crop shows only the seat
+corridor,12,chair,armchair,correct,yes,
+corridor,13,chair,unclear,unclear,no,crop is a dark sliver
+corridor,18,wet floor sign,standing direction sign,wrong,yes,"Renal Centre" sign
+corridor,19,chair,chair,correct,no,crop is a sliver
+corridor,20,chair,low stool or ottoman,correct,no,crop is a blue blob
+campus,1.3,chair,table with chairs (merged set),wrong,yes,set of table and chairs as one object
+campus,1.2,table,table with chairs (merged set),correct,yes,chairs merged in
+campus,1.1,vending machine,chair,wrong,yes,
+campus,1.0,chair,unclear (0.4 m piece),unclear,no,
+campus,2.1,table,table with chairs (merged set),correct,yes,chairs merged in
+campus,2.0,chair,unclear (1.2 m post),unclear,no,crop is a sliver
+campus,3,table,table with chairs (merged set),correct,yes,chairs merged in
+campus,4,chair,tables with chairs (merged set),wrong,yes,2.8 m group
+campus,6.1,chair,unclear,unclear,no,
+campus,6.0,chair,unclear (panel or column),unclear,no,
+campus,7,wet floor sign,unclear (2.5 m tall panel),unclear,no,
+campus,9.0,queue stanchion,long low counter or bench,wrong,no,2.8 m long
+campus,8,chair,unclear,unclear,no,
+campus,10,potted plant,potted plant,correct,no,crop shows a panel; scan shows the plant
+campus,12.0,queue stanchion,unclear (L-shaped 2 m structure),unclear,no,
+campus,12.1,queue stanchion,unclear (0.35 m piece),unclear,no,
+campus,14,chair,unclear,unclear,no,
+campus,16,table,table,correct,yes,
+campus,17,table,unclear,unclear,no,
+campus,19,bench table,picnic bench,correct,yes,

@@ -1,0 +1,57 @@
+[
+ {
+  "id": "2",
+  "label": "potted plant",
+  "reason": "outside area"
+ },
+ {
+  "id": "3",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "5",
+  "label": "table",
+  "reason": "outside area"
+ },
+ {
+  "id": "11",
+  "label": "queue stanchion",
+  "reason": "outside area"
+ },
+ {
+  "id": "13",
+  "label": "chair bench",
+  "reason": "outside area"
+ },
+ {
+  "id": "14",
+  "label": "chair",
+  "reason": "wall/door piece (thickness 0.022 m, coplanar ratio 0.50)"
+ },
+ {
+  "id": "16",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "21",
+  "label": "wet floor sign",
+  "reason": "outside area"
+ },
+ {
+  "id": "23",
+  "label": "table",
+  "reason": "outside area"
+ },
+ {
+  "id": "26",
+  "label": "chair bench",
+  "reason": "outside area"
+ },
+ {
+  "id": "27",
+  "label": "chair",
+  "reason": "outside area"
+ }
+]

@@ -1,0 +1,29 @@
+{
+ "area_points": 40919095,
+ "passes": [
+  {
+   "start_s": 0.0,
+   "end_s": 161.308349609375,
+   "points": 20019574
+  },
+  {
+   "start_s": 325.6085205078125,
+   "end_s": 539.9525146484375,
+   "points": 20899521
+  }
+ ],
+ "gap_minutes": 2.738336181640625,
+ "c2c": {
+  "overlap_frac_of_B": 0.997,
+  "median_cm": 0.81,
+  "p90_cm": 1.53,
+  "within_2cm_pct": 94.6,
+  "within_5cm_pct": 97.9
+ },
+ "floor_dz": {
+  "cells": 698,
+  "median_cm": 0.0,
+  "mad_cm": 0.0,
+  "p90_abs_cm": 3.09
+ }
+}

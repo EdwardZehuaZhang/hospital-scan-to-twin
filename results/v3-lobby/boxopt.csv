@@ -1,0 +1,19 @@
+id,label,boxopt_mean_cm,boxopt_within5_pct,boxopt_unsupported_pct
+0,potted plant,23.0,21.0,68.6
+1,potted plant,11.4,36.1,62.8
+4,wet floor sign,7.5,41.8,53.0
+6,standing sign board,1.6,93.2,57.1
+7,standing sign board,9.3,35.1,70.5
+8,standing sign board,3.3,75.9,38.0
+10,table,2.0,87.1,25.6
+9,potted plant,2.2,83.6,36.7
+12,display stand,3.4,83.6,42.2
+25,wet floor sign,3.5,78.1,52.8
+15,wet floor sign,1.1,98.8,0.0
+20,wet floor sign,3.9,72.2,2.3
+19,standing sign board,0.9,97.3,19.9
+17,potted plant,7.3,45.7,53.5
+22,wet floor sign,0.7,97.4,53.7
+24,potted plant,7.6,42.5,61.2
+18.1,queue stanchion,4.6,70.2,58.0
+18.0,queue stanchion,4.5,75.2,72.9
