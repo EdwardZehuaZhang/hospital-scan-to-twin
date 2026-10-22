@@ -33,7 +33,7 @@ def hl(d):
 
 
 def boot(d, n=4000):
-    d = np.asarray(d)
+    d = np.asarray(d); rng = np.random.default_rng(0)  # fixed per comparison, so intervals do not depend on call order
     b = [hl(d[rng.integers(0, len(d), len(d))]) for _ in range(n)]
     return float(np.percentile(b, 2.5)), float(np.percentile(b, 97.5))
 
